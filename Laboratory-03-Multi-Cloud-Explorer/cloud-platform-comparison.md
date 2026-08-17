@@ -30,3 +30,12 @@ Google Cloud Platform is a strong choice for Artificial Intelligence, Machine Le
 
 I would personally choose AWS because it provides a wide range of services and can support different types of applications and business requirements. It also provides services that can be used by both small organizations and large enterprises.
 
+## Cloud Service Matching
+
+| Service Category    | AWS        | Microsoft Azure                | Google Cloud Platform          |
+| ------------------- | ---------- | ------------------------------ | ------------------------------ |
+| Virtual Machine     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| Object Storage      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| Identity Management | AWS IAM    | Microsoft Entra ID             | Cloud Identity                 |
+| SQL Database        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| Kubernetes          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
